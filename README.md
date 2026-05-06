@@ -4,8 +4,7 @@
 
 ## 記事
 
-<!-- Zenn記事のURL（公開後に追記） -->
-https://zenn.dev/（公開後に追記）
+https://zenn.dev/cool_crocus678/articles/japan-census-map
 
 ## セットアップ
 
